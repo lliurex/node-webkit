@@ -1,5 +1,5 @@
 Source: node-webkit
-Section: java
+Section: javascript
 Priority: optional
 Maintainer: Equipo LliureX <lliurex@gva.es> 
 Build-Depends: debhelper (>=10)               
