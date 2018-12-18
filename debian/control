@@ -1,0 +1,13 @@
+Source: node-webkit
+Section: java
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es> 
+Build-Depends: debhelper (>=10)               
+Standards-Version: 4.1.2
+Homepage: http://lliurex.net
+
+Package: node-webkit
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, nwjs0.21
+Description: Node-Webit package
+  Package that depends on nwjs0.21
